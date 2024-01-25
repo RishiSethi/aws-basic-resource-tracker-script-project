@@ -1,0 +1,9 @@
+Print ec2 instances
+"i-0b9807cca5401d274"
+Print lambda functions list
+{
+    "Functions": []
+}
+Print list of iam-users
+"rishi"
+"terraform"
