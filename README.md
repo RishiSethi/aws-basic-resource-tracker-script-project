@@ -7,8 +7,6 @@ To get a report of list of ec2-users, s3 buckets, lambda functions and iam-users
 
 ###############################
 
-################################
-
 **resource-tracker.txt** - Report file, output of script file
 
 ###############################
